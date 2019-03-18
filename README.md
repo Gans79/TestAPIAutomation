@@ -5,7 +5,8 @@ Automation Tool : Newman
 Setup steps: 
 
 Install NodeJS : https://nodejs.org/en/download/
-Intall newman   : npm install -g newman
+Install newman   : npm install -g newman
+Install newman html reporter : npm install -g newman-reporter-html
 
 Run Steps in CLI :
 Download Collection file from repo: Weatherbit.postman_collection.json
