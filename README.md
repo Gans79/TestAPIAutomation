@@ -5,6 +5,7 @@ Automation Tool : Newman
 Setup steps: 
 
 Install NodeJS : https://nodejs.org/en/download/
+Install postman : https://www.postman.com/downloads/
 Install newman   : npm install -g newman
 Install newman html reporter : npm install -g newman-reporter-html
 
